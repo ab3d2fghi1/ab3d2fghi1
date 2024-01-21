@@ -23,7 +23,8 @@
 </br>
 <h3 align="center"><b>Find me</b></h3>
 <p align='center'>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chaeleeshme@gmail.com"/>
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ab3d2fghi1/posts"/>
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/ab3d2fghi1"/>
+    <a href="mailto:chaeleeshme@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chaeleeshme@gmail.com"/></a>
+    <a href="https://velog.io/@ab3d2fghi1/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ab3d2fghi1/posts"/></a>
+    <a href="https://www.kaggle.com/ab3d2fghi1"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/ab3d2fghi1"/></a>
 </p>
+</br>
